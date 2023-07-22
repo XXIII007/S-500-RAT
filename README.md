@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="![8n9](https://github.com/XXIII007/S-500-RAT/assets/140242738/14326547-3df9-4984-b9b2-c31f0d5997f3)" width="200"></img>
+<img src="blob:https://imgur.com/195d3188-4e0c-44be-8092-03f5689f3f4b" width="200"></img>
   </kbd>
 </p>
 <p align="center">
