@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://imgur.com/195d3188-4e0c-44be-8092-03f5689f3f4b" width="200"></img>
+<img src="https://i.imgur.com/qEGcfFF.jpg" width="200"></img>
   </kbd>
 </p>
 <p align="center">
